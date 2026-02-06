@@ -1,0 +1,36 @@
+commit 6c53f1e0fc7af8b847dd82f93feb3aa96a0e76e8
+Merge: b357830 b5e2e4f
+Author: Roxana Cruz <rox21cruz@gmail.com>
+Date:   Thu Feb 5 23:04:29 2026 -0800
+
+    Resolve merge conflict
+
+commit b5e2e4fab23ec678b3e4fddf0b6bbcf2cd01f3e7
+Author: Roxana Cruz <rox21cruz@gmail.com>
+Date:   Thu Feb 5 23:02:14 2026 -0800
+
+    Add favorite movie
+
+commit b35783012dda908203672046b96c78d59bd5d9f1
+Author: Roxana Cruz <rox21cruz@gmail.com>
+Date:   Thu Feb 5 22:58:30 2026 -0800
+
+    Add favorite food
+
+commit 35a7c8c42212c287ec08302c306c24297efdad4d
+Author: Roxana Cruz <rox21cruz@gmail.com>
+Date:   Thu Feb 5 22:55:06 2026 -0800
+
+    Add README
+
+commit 9a1cf4bb3f3393ed6935a636c898d8ab8824ce3b
+Author: Roxana Cruz <rox21cruz@gmail.com>
+Date:   Thu Feb 5 22:43:19 2026 -0800
+
+    Fill in info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
